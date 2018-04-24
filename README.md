@@ -9,15 +9,15 @@ Requirements
 
 **Your Website should have (at least) 3 pages:**
 
-1. A home page
-2. An "about" page
-3. A photo gallery page
+[] A home page
+[] An "about" page
+[] A photo gallery page
 
 **Your site should also have a `public/` folder for:**
 
-- CSS styling
-- images
-- (BONUS) some small front end JavaScript (click events, fade ins, popups, etc.)
+[] CSS styling
+[] images
+[] (BONUS) some small front end JavaScript (click events, fade ins, popups, etc.)
 
 Send your pull request before next class!
 
